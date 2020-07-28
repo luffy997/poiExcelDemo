@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="847295a9-d0e1-413b-9047-21447943ad94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Application/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Application\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fGRh2uChJyadcUDikes52CBGLj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.EasyTest.simpleRead">
+    <configuration name="EasyTest.simpleRead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poiDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy" />
+      <option name="MAIN_CLASS_NAME" value="easy.EasyTest" />
+      <option name="METHOD_NAME" value="simpleRead" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasyTest.simpleWrite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poiDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="easy" />
+      <option name="MAIN_CLASS_NAME" value="easy.EasyTest" />
+      <option name="METHOD_NAME" value="simpleWrite" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReadTest.testCellType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poiDemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExcelReadTest" />
+      <option name="METHOD_NAME" value="testCellType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReadTest.testFormula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poiDemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExcelReadTest" />
+      <option name="METHOD_NAME" value="testFormula" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReadTest.testRead07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poiDemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExcelReadTest" />
+      <option name="METHOD_NAME" value="testRead07" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EasyTest.simpleRead" />
+        <item itemvalue="JUnit.EasyTest.simpleWrite" />
+        <item itemvalue="JUnit.ExcelReadTest.testFormula" />
+        <item itemvalue="JUnit.ExcelReadTest.testCellType" />
+        <item itemvalue="JUnit.ExcelReadTest.testRead07" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="847295a9-d0e1-413b-9047-21447943ad94" name="Default Changelist" comment="" />
+      <created>1595842558264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595842558264</updated>
+      <workItem from="1595842560138" duration="4499000" />
+      <workItem from="1595902299402" duration="10171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="208" key="#Notifications" timestamp="1595905494137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="208" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1595905494137" />
+    <state x="263" y="426" key="#com.intellij.ide.util.MemberChooser" timestamp="1595910543986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="263" y="426" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595910543986" />
+    <state x="1315" y="332" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1595904736512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1315" y="332" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595904736512" />
+    <state width="1565" height="225" key="GridCell.Tab.0.bottom" timestamp="1595911866147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595911866147" />
+    <state width="1565" height="225" key="GridCell.Tab.0.center" timestamp="1595911866147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="225" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595911866147" />
+    <state width="1565" height="225" key="GridCell.Tab.0.left" timestamp="1595911866147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="225" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595911866147" />
+    <state width="1565" height="225" key="GridCell.Tab.0.right" timestamp="1595911866147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1565" height="225" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595911866147" />
+    <state width="1465" height="344" key="GridCell.Tab.1.bottom" timestamp="1595906845300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1465" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595906845300" />
+    <state width="1465" height="344" key="GridCell.Tab.1.center" timestamp="1595906845300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1465" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595906845300" />
+    <state width="1465" height="344" key="GridCell.Tab.1.left" timestamp="1595906845300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1465" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595906845300" />
+    <state width="1465" height="344" key="GridCell.Tab.1.right" timestamp="1595906845300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1465" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595906845300" />
+    <state x="602" y="305" key="Maven.ArtifactSearchDialog" timestamp="1595909868565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="602" y="305" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595909868565" />
+    <state x="568" y="195" key="SettingsEditor" timestamp="1595911728767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="568" y="195" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595911728767" />
+    <state x="1320" y="334" key="run.anything.popup" timestamp="1595843152198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1320" y="334" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595843152198" />
+    <state x="1741" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1595909879661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1741" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595909879661" />
+  </component>
+</project>
